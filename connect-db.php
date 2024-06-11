@@ -1,7 +1,7 @@
 <?php
 // Thông tin kết nối tới cơ sở dữ liệu
 $host = 'localhost'; // Địa chỉ host
-$dbname = 'student-db'; // Tên cơ sở dữ liệu
+$dbname = 'student_db'; // Tên cơ sở dữ liệu
 $username = 'hoang'; // Tên người dùng MySQL
 $password = ''; // Mật khẩu MySQL
 try {
