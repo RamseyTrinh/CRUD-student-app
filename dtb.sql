@@ -11,6 +11,3 @@ CREATE TABLE students (
 CREATE USER 'hoang'@'%' IDENTIFIED BY '';
 GRANT ALL PRIVILEGES ON *.* TO 'hoang'@'%';
 FLUSH PRIVILEGES;
-
-
-mysql -h 'ip' -u 'user' -p
